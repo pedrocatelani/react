@@ -1,0 +1,11 @@
+.banner {
+  width: 100%;
+  height: 450px;
+  /* background-image: url("/public/images/purplePlains.jpeg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 68px;
+  border-bottom: 3px solid #ae1afe;
+  overflow: hidden;
+}

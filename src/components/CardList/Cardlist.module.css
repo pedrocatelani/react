@@ -1,0 +1,11 @@
+.cardlist section {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-block: 1rem;
+}
+
+.cardlist card {
+  gap: 5px;
+}
